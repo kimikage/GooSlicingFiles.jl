@@ -18,6 +18,7 @@ GooSlicingFilesFileIOExt = ["FileIO", "UUIDs"]
 
 [compat]
 FileIO = "1"
+FixedPointNumbers = "0.8"
 Requires = "1"
 julia = "1"
 
